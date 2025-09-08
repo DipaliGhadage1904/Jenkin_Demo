@@ -1,2 +1,2 @@
 # Jenkin_Demo
-This is for C programming
+This is for Java programming
